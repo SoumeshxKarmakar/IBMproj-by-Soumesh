@@ -1,4 +1,18 @@
-body {background-color:white;}
-h1{color:grey;}
-
+body {
+background-color:black;
+line-height:1.6em;
+}
+h1{
+color: grey; 
+}
+.container {
+width:500px;
+margin:auto;
+position: relative;
+}
+.main
+{
+background-color:white;
+color:black;
+ }
 
