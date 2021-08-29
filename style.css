@@ -1,18 +1,13 @@
-body {
-background-color:black;
-line-height:1.6em;
+body {background-color:black;}
+h1{color:grey;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1{
-color: grey; 
+ 
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
 }
-.container {
-width:500px;
-margin:auto;
-position: relative;
-}
-.main
-{
-background-color:white;
-color:black;
- }
-
